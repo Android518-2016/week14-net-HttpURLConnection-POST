@@ -20,8 +20,6 @@ Uses
 * DataOutputStream
 
 ## app HttpUrlConnection
-Note: input URL cannot be https:
-
 Use of logcat to watch the logging
 ```
 adb logcat -s HttpURLPOST
