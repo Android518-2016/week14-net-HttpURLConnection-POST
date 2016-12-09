@@ -1,8 +1,8 @@
-# week14-net-HttpURLConnectionExample-POST
+# week14-net-HttpsURLConnectionExample-POST
 Sample code that opens an HTTP connection (socket) to a 
-an website api
+a website api over TLS so using HTTPS 
 It needs an api key, an api appid POST data is constructed
-for the request
+for the request, uses <http://www.edamam.com> api 
 
 n.b. HTTP POST is more secure as you do not expose data in the URL
 as you do with HTTP GET
